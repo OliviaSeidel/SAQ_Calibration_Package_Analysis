@@ -1,3 +1,3 @@
 # SAQ_Calibration_Package_Analysis
 
-Run "MasterPlotter.py" to see all of the good stuff, Or look in the Plots Folder to see the results. The other python files here are imports. To use this yourself, download the whole directory structure and data, and run.
+Run "MasterPlotter.py" to Generate plots and see how the data is processed. Look in the Plots Folder to see the results of the code and Data processing. The other python files here are imports. 
